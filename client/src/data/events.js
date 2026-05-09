@@ -126,6 +126,20 @@ export const events = [
     recurring: false,
     isVideo: false,
     mediaPath: "/events/spring_conference_2026/flyer.jpg"
+  },
+  {
+    id: 10,
+    title: "Summer Camp 2026",
+    description: "Join us for an unforgettable week of fun, faith, and friendship at our Summer Camp 2026! 🌞🏕️",
+    detailedDescription: "<h1>Summer Camp 2026</h1><p>Join us for an unforgettable week of fun, faith, and friendship at our Summer Camp 2026! 🌞🏕️</p><br/><p>Experience exciting activities, inspiring worship, and meaningful connections with others in our community. This is a great opportunity to grow in your faith and make lasting memories. Don't miss out on the fun!</p>",
+    date: "June 11-14, 2026",
+    startTime: "Jun 11 9:00 AM",
+    endTime: "Jun 14 5:00 PM",
+    location: "Timberline Baptist Camp",
+    category: "Camp",
+    recurring: false,
+    isVideo: false,
+    mediaPath: "/events/summer_camp_2026/flyer.jpg"
   }
 ]
 
