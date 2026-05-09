@@ -4,15 +4,15 @@ import { Link } from 'react-router-dom'
 import PageHeader from '../components/common/PageHeader'
 import FadeIn from '../components/common/FadeIn'
 
-const DiscipleshipTeam = () => {
+const MediaTeam = () => {
   return (
     <>
       <PageHeader
-        title='Discipleship Team'
-        description='Get to know the ministry focused on helping people grow in the Word and in community.'
+        title='Media Team'
+        description='See what our Media Team is all about and how you can get involved!'
       />
     </>
   )
 }
 
-export default DiscipleshipTeam
+export default MediaTeam

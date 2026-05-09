@@ -17,7 +17,7 @@ const highlightItems = [
   {
     title: 'Worship',
     imageUrl: '/misc/img3.jpg',
-    to: '/',
+    to: '/our-team/worship-team',
   },
   {
     title: 'Home Groups',

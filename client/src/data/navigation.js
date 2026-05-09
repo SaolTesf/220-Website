@@ -19,20 +19,16 @@ export const ourTeamSubsections = [
     label: 'Worship Team',
   },
   {
-    to: '/our-team/tech-team',
-    label: 'Tech Team',
-  },
-  {
     to: '/our-team/hospitality-team',
     label: 'Hospitality Team',
   },
   {
-    to: '/our-team/outreach-team',
-    label: 'Outreach Team',
+    to: '/our-team/media-team',
+    label: 'Media Team',
   },
   {
-    to: '/our-team/discipleship-team',
-    label: 'Discipleship Team',
+    to: '/our-team/events-team',
+    label: 'Events Team',
   },
   {
     to: '/our-team/prayer-team',

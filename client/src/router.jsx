@@ -10,10 +10,9 @@ import MissionVision from './components/home/MissionVision'
 import Beliefs from './pages/Beliefs'
 import OurTeam from './pages/OurTeam'
 import WorshipTeam from './pages/WorshipTeam'
-import TechTeam from './pages/TechTeam'
 import HospitalityTeam from './pages/HospitalityTeam'
-import OutreachTeam from './pages/OutreachTeam'
-import DiscipleshipTeam from './pages/DiscipleshipTeam'
+import MediaTeam from './pages/MediaTeam'
+import EventsTeam from './pages/EventsTeam'
 import PrayerTeam from './pages/PrayerTeam'
 import Contact from './pages/Contact';
 
@@ -52,20 +51,16 @@ export const router = createBrowserRouter([
         element: <WorshipTeam />
       },
       {
-        path: 'our-team/tech-team',
-        element: <TechTeam />
-      },
-      {
         path: 'our-team/hospitality-team',
         element: <HospitalityTeam />
       },
       {
-        path: 'our-team/outreach-team',
-        element: <OutreachTeam />
+        path: 'our-team/media-team',
+        element: <MediaTeam />
       },
       {
-        path: 'our-team/discipleship-team',
-        element: <DiscipleshipTeam />
+        path: 'our-team/events-team',
+        element: <EventsTeam />
       },
       {
         path: 'our-team/prayer-team',

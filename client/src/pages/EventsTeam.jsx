@@ -4,15 +4,15 @@ import { Link } from 'react-router-dom'
 import PageHeader from '../components/common/PageHeader'
 import FadeIn from '../components/common/FadeIn'
 
-const TechTeam = () => {
+const EventsTeam = () => {
   return (
     <>
       <PageHeader
-        title='Tech Team'
-        description='Learn about the team supporting sound, media, and production for every service.'
+        title='Events Team'
+        description='Get to know our Events Team and how they create meaningful experiences for our church family and community!'
       />
     </>
   )
 }
 
-export default TechTeam
+export default EventsTeam
